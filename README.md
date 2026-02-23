@@ -12,7 +12,7 @@ An immersive gaming website showcasing a cross-platform metagame experience with
   <a href="https://zentry-2022.netlify.app/">
     <img src="https://img.shields.io/badge/View%20Live-Netlify-00C7B7?style=for-the-badge&logo=netlify">
   </a>
-  <a href="https://github.com/ryan-4u/zentry-gaming">
+  <a href="https://github.com/ryan-4u/Zentry-Gaming-Website">
     <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -79,4 +79,4 @@ zentry-gaming
 <h2>Run Locally</h2>
 
 ```bash
-git clone https://github.com/ryan-4u/zentry-gaming.git
+git clone https://github.com/ryan-4u/Zentry-Gaming-Website.git
